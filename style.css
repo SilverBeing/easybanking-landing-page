@@ -403,7 +403,6 @@ footer{
         margin: auto;
         display: block;
         max-width: 100%;
-        transform: scale(0.8, 0.8);
     }
     .image1{
         display: none;
@@ -584,4 +583,5 @@ footer{
     }
 
 }
+
 
